@@ -140,7 +140,7 @@ I'm **Meenakshi Sinha** — passionate about **data storytelling** and turning m
 ## 💬 Let’s Connect
 
 * 📧 Open to feedback, questions, or collaboration ideas!
-* 💼 [LinkedIn](#) [(Add your real link here)](https://www.linkedin.com/in/meenakshi-sinha-84a2a1255/)
-* 🐍 [GitHub](#) [(Optional link to your GitHub profile)](https://github.com/MeenakshiSinha23)
+* 💼 [LinkedIn](#) (https://www.linkedin.com/in/meenakshi-sinha-84a2a1255/)
+* 🐍 [GitHub](#) (https://github.com/MeenakshiSinha23)
 
 
